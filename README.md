@@ -10,6 +10,7 @@ THEN START STEP 2
 
 
 COPY ALL 3 LINES AND PASTE IN TERMUX!
+
 pkg updated && pkg upgrade -y && termux-setup-storage &&
 pkg install wget -y && pkg install git -y && pkg install proot -y &&
 cd ~ && git clone https://github.com/MFDGaming/ubuntu-in-termux.git && cd ubuntu-in-termux && chmod +x ubuntu.sh && ./ubuntu.sh -y && ./startubuntu.sh 
@@ -25,6 +26,7 @@ chmod +x start.sh
 cd scripts 
 
 COPY ALL 3 LINES AND PASTE IN TERMUX!
+
 chmod +x bootstrap.sh  &&
 chmod +x functions.sh &&
 chmod +x on_env_start.sh
