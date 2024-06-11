@@ -9,7 +9,7 @@ THEN GO TO MARCO FILE MANAGER AND MOVE THE easy-diffusion FOLDER TO THE TERMUX D
 THEN START STEP 2
 
 
-COPY ALL 3 LINES AND PASTE IN TERMUX!
+COPY 2 LINES AND PASTE IN TERMUX!
 
 pkg updated && pkg upgrade -y && termux-setup-storage &&
 pkg install wget -y && pkg install git -y && pkg install proot -y &&
