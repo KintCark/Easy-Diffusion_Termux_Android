@@ -63,4 +63,4 @@ AFTER RESTARTED TERMUX
  
  cd easy-diffusion
  
- ./start.sh4
+ ./start.sh
