@@ -51,6 +51,14 @@ cd
  
  cd easy-diffusion
 
+
+
+'Fix' the issue with Python running in PRoot
+
+export ANDROID_DATA=anything 
+
+
+
  Step 9
  
  ./start.sh
