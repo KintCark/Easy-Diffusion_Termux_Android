@@ -2,6 +2,8 @@
 Another one bites the dust! You can install easy Diffusion on android! But it's very slow so be patient it doesn't work on 8gb ram devices it will crash u need at least 12gb or 16gb ram
 
 
+DISABLE PHANTOM PROCESS KILLLER OR U WON'T BE ABLE TO MAKE IMAGES OVER 320X320!!!!
+
 
 FIRST DOWNLOAD EASY DIFFUSION LINUX ZIP FROM EASY DIFFUSION GITHUB PAGE
 THEN GO TO GOOGLE PLAY STORE AND DOWNLOAD MARCO FILE MANAGER THEN INSTALL STEP 1 
